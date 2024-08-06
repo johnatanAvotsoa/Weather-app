@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "1" ,
+        "meteo" : "clear" ,
+        "temp": "20",
+        "heure": "02:00 PM"
+    },
+    {
+        "id" : "2" ,
+        "meteo" : "clear" ,
+        "temp": "21",
+        "heure": "03:00 PM"
+    },
+    {
+        "id" : "3" ,
+        "meteo" : "clear" ,
+        "temp": "21",
+        "heure": "04:00 PM"
+    },
+    {
+        "id" : "4" ,
+        "meteo" : "clear" ,
+        "temp": "19",
+        "heure": "05:00 PM"
+    },
+    {
+        "id" : "5" ,
+        "meteo" : "clear" ,
+        "temp": "19",
+        "heure": "06:00 PM"
+    },
+    {
+        "id" : "6" ,
+        "meteo" : "clear" ,
+        "temp": "19",
+        "heure": "07:00 PM"
+    },
+    {
+        "id" : "7" ,
+        "meteo" : "clear" ,
+        "temp": "18",
+        "heure": "08:00 PM"
+    },
+    {
+        "id" : "8" ,
+        "meteo" : "clear" ,
+        "temp": "18",
+        "heure": "09:00 PM"
+    }
+]
